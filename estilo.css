@@ -1,0 +1,29 @@
+header  {
+    color: rgb(0, 153, 255);
+
+}
+footer {
+    color: aqua;
+}
+h1 {
+    background-color: deepskyblue;
+    color: crimson;
+}
+h2 {
+    background-color: black;
+    color: rgb(2, 255, 200);
+}
+p {
+    background-color: darkorchid;
+    color: orangered;
+}
+aside {
+    background-color: dimgrey;
+    color: magenta;
+}
+body {
+    background-color: hotpink;
+}
+header {
+    background-color: chartreuse;
+}
