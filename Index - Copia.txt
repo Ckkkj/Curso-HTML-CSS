@@ -1,0 +1,13 @@
+<html>
+
+<head>
+<title>Minha primeira pagina em html</title>
+
+</head>
+
+<body>
+hello world
+<img scr="https://c.tenor.com/GIYPzLP0so8AAAAM/villager-real-life.gif">
+</body>
+
+</html>
