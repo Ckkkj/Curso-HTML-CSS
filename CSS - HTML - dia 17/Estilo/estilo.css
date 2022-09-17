@@ -16,7 +16,7 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 20px;
-    color: rgb(134, 0, 151);
+    color: rgb(192, 0, 250);
     text-shadow: 1px 1px 1px #666;
 }
 
@@ -25,13 +25,12 @@ li {
     font-family: 'Raleway', sans-serif;;
     font-style: italic;
     font-size: 18px;
-    color: rgb(255, 0, 0);
     letter-spacing: -0.05;
     text-shadow: 1px 1px 1px #666;
     }  
 
 p, li, section {
-    color: rgb(141, 0, 0);
+    color: rgb(255, 0, 140);
     margin-bottom: 5px;
 }
 
